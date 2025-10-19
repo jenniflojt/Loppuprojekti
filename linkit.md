@@ -19,4 +19,4 @@ Well, do I have [the website for you][another fun place]!
 [a fun place]: www.zombo.com
 [another fun place]: www.stumbleupon.com
 
-##### [Siirry takaisin päävalikkoon](index.md)
+[Siirry takaisin päävalikkoon](index.md)
