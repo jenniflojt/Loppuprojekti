@@ -19,6 +19,6 @@ Well, do I have [the website for you][another fun place]!
 [a fun place]: www.zombo.com
 [another fun place]: www.stumbleupon.com
 
-[Oikea linkki **googleen*](https://google.com)
+[Oikea linkki googleen](https://google.com)
 
 [Siirry takaisin päävalikkoon](index.md)

@@ -2,16 +2,17 @@
 
 [Kursiivit ja tekstin lihavointi](kursiivit.md)
 
-[Erilaiset otsikot](otsikot.md)
+[Otsikot](otsikot.md)
 
-[Erilaiset linkit](linkit.md)
+[Linkit](linkit.md)
 
-[Erilaiset kuvat](kuvienluonti.md)
+[Kuvat](kuvienluonti.md)
 
 [Lohkolainaukset](lohkolainaus.md)
 
-[Erilaiset listat](listat.md)
+[Listat](listat.md)
 
-[Erilaiset kappaleet](kappaleet.md)
+[Kappaleet](kappaleet.md)
 
 
+Linkeistä pääset siirtymään tehtävän eri osioihin! 
