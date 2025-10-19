@@ -1,6 +1,6 @@
 ## Jenni Flöjt web-tehtävä
 
-[Kursiivit ja tekstin lihavointi](kursiivit.md)
+[## Kursiivit ja tekstin lihavointi](kursiivit.md)
 
 ### Kursiivit
 Writing in Markdown is _not_ that hard!
