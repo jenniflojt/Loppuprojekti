@@ -19,6 +19,6 @@ Well, do I have [the website for you][another fun place]!
 [a fun place]: www.zombo.com
 [another fun place]: www.stumbleupon.com
 
-[Oikea linkki googleen](https://google.com)
+[Markdown Tutorialissa](https://markdowntutorial.com/lesson/3/) linkeissä virheellisesti ohjeistettu käyttämään www linkkien alussa kun olisi pitänyt olla https://, että toimivat. Tähän laitettu esimerkiksi linkki markdowniin ja googleen, jotka toimivat. [Oikea linkki googleen](https://google.com)
 
 [Siirry takaisin päävalikkoon](index.md)
